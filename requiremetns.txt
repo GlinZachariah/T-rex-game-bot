@@ -1,0 +1,5 @@
+Python libraries needed:
+
+Numpy
+PyAutoGUI
+Pillow
