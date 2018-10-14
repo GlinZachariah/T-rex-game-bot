@@ -3,3 +3,15 @@ Python libraries needed:
 Numpy
 PyAutoGUI
 Pillow
+-----------------------
+Coordinates for 1366 * 768 (watch youtube)
+162,428
+197,460
+--------------
+172,421 -dino
+--------------------
+193,402
+250,450
+----------------------
+Coordinates.dinosaur[0]+41,Coordinates.dinosaur[1]-9,Coordinates.dinosaur[0]+78,Coordinates.dinosaur[1]+22
+172
